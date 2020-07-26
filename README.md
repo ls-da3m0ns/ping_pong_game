@@ -14,7 +14,7 @@
   
 ## Images 
 
-<img src="images/game.png width = 400px style= "padding:20px;"></img>
+ <img src = "images/game.png" width = 400px style = "padding:20px;"></img>
                                                               
  
   
